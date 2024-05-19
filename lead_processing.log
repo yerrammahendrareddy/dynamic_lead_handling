@@ -1,0 +1,288 @@
+2024-05-18 19:18:58,776 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 19:18:58,792 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 19:19:00,306 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 19:19:00,320 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 19:19:01,839 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:19:01,856 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:19:03,397 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:19:03,397 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:19:04,927 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:19:04,929 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:19:06,456 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:19:06,456 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:19:07,994 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 19:19:07,997 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 19:19:09,520 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:19:09,535 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:19:10,038 - Workflow configuration reloaded
+2024-05-18 19:19:11,043 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:19:11,058 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:19:12,579 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 19:19:12,595 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 19:19:14,133 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:19:14,148 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:19:15,043 - Task cancelled
+2024-05-18 19:26:44,087 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:26:44,096 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:26:45,626 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 19:26:45,638 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 19:26:47,159 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:26:47,169 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:26:48,702 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:26:48,716 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:26:50,257 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:26:50,267 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:26:51,799 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:26:51,810 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:26:53,340 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:26:53,351 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:26:54,877 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 19:26:54,890 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 19:26:56,420 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:26:56,435 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:26:57,949 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:26:57,971 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:26:59,500 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:26:59,503 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:27:00,006 - Workflow configuration reloaded
+2024-05-18 19:27:01,027 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:27:01,029 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:27:02,535 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:27:02,551 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:27:04,065 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 19:27:04,082 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 19:27:05,602 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:27:05,628 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:27:06,089 - Task cancelled
+2024-05-18 19:27:41,339 - Sending message to jane.mahendra@example.com via Email: Hi Jane mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:27:41,349 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:27:41,361 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:27:41,371 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:27:41,381 - No workflow found for lead source Unknown
+2024-05-18 19:27:41,390 - Workflow configuration reloaded
+2024-05-18 19:28:07,351 - Sending message to jane.mahendra@example.com via Email: Hi Jane mahendra, Alex here. Let's talk about your needs.
+2024-05-18 19:28:07,360 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 19:28:07,376 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 19:28:07,388 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 19:28:07,401 - No workflow found for lead source Unknown
+2024-05-18 19:28:07,406 - Workflow configuration reloaded
+2024-05-18 20:01:51,591 - Workflow configuration reloaded
+2024-05-18 20:03:48,906 - Workflow configuration reloaded
+2024-05-18 20:16:37,309 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:16:37,324 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:16:38,834 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:16:38,849 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:16:40,355 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:16:40,371 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:16:41,898 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:16:41,898 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:16:43,420 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:16:43,423 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:16:44,942 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 20:16:44,958 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 20:16:46,481 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:16:46,481 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:16:47,989 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:16:48,004 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:16:49,536 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:16:49,540 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:16:50,041 - Workflow configuration reloaded
+2024-05-18 20:16:51,047 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:16:51,063 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:16:52,570 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 20:16:52,586 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 20:16:54,107 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 20:16:54,107 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 20:16:55,615 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 20:16:55,631 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 20:16:57,142 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:16:57,151 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:16:58,664 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 20:16:58,680 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 20:17:00,185 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:17:00,201 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:17:01,721 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:17:01,737 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:17:03,239 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:17:03,255 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:17:04,771 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:17:04,780 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:17:06,287 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 20:17:06,302 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 20:17:06,884 - Task cancelled
+2024-05-18 20:24:14,838 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:24:14,844 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:24:16,369 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 20:24:16,375 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 20:24:17,891 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 20:24:17,900 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 20:24:19,262 - Task cancelled
+2024-05-18 22:05:44,626 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 22:05:44,626 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 22:05:46,134 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 22:05:46,150 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 22:05:47,670 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 22:05:47,670 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 22:05:49,196 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 22:05:49,197 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 22:05:50,717 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 22:05:50,720 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 22:05:52,228 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 22:05:52,245 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 22:05:53,190 - Task cancelled
+2024-05-18 22:06:17,104 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 22:06:17,121 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 22:06:18,630 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 22:06:18,645 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 22:06:20,165 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 22:06:20,173 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 22:06:21,099 - Task cancelled
+2024-05-18 22:09:00,880 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 22:09:00,880 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 22:09:02,404 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-18 22:09:02,404 - Processed lead from Hubspot with persona Alex over Email
+2024-05-18 22:09:03,910 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-18 22:09:03,925 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-18 22:09:05,449 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-18 22:09:05,449 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-18 22:09:06,944 - Task cancelled
+2024-05-19 10:46:41,214 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:46:41,232 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:46:42,756 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:46:42,783 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:46:44,298 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:46:44,312 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:46:45,842 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:46:45,860 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:46:47,389 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:46:47,408 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:46:48,951 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:46:48,977 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:46:50,510 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:46:50,524 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:46:52,040 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:46:52,066 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:46:53,604 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:46:53,614 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:46:55,159 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:46:55,184 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:46:56,718 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:46:56,751 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:46:58,292 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:46:58,307 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:46:59,867 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:46:59,891 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:47:00,403 - Workflow configuration reloaded
+2024-05-19 10:47:01,431 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:47:01,449 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:47:02,989 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:47:03,006 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:47:04,549 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:47:04,561 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:47:06,092 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:47:06,120 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:47:07,662 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:47:07,683 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:47:09,242 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:47:09,272 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:47:10,813 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:47:10,829 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:47:12,379 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:47:12,391 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:47:13,908 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:47:13,950 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:47:15,483 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:47:15,502 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:47:17,024 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:47:17,047 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:47:18,568 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:47:18,581 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:47:20,101 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 10:47:20,114 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 10:47:21,666 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:47:21,683 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:47:22,754 - Task cancelled
+2024-05-19 10:53:07,949 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:53:07,963 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:53:09,488 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 10:53:09,499 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 10:53:10,027 - Workflow configuration reloaded
+2024-05-19 10:53:11,044 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 10:53:11,057 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 10:53:11,518 - Task cancelled
+2024-05-19 11:09:41,726 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:09:41,741 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:09:43,285 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:09:43,300 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:09:44,835 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:09:44,864 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:09:46,413 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:09:46,491 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:09:48,027 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:09:48,041 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:09:49,569 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:09:49,583 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:09:50,101 - Workflow configuration reloaded
+2024-05-19 11:09:51,128 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 11:09:51,141 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 11:09:52,669 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:09:52,682 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:09:54,217 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 11:09:54,230 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 11:09:55,779 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:09:55,793 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:09:57,333 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:09:57,352 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:09:58,883 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:09:58,904 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:10:00,436 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:10:00,450 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:10:01,980 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:10:01,997 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:10:03,535 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:10:03,550 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:10:05,089 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:10:05,114 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:10:06,661 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 11:10:06,682 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 11:10:08,213 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 11:10:08,233 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 11:10:09,765 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 11:10:09,777 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 11:10:10,294 - Workflow configuration reloaded
+2024-05-19 11:10:11,000 - Task cancelled
+2024-05-19 12:09:16,242 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 12:09:16,249 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 12:09:17,773 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 12:09:17,782 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 12:09:19,310 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 12:09:19,318 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 12:09:20,863 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 12:09:20,877 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 12:09:22,410 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 12:09:22,421 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 12:09:23,942 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 12:09:23,952 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 12:09:25,485 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 12:09:25,496 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 12:09:27,043 - Sending message to yerram.mahendra@example.com via Messenger: Hey yerram mahendra, Sam from support. How can I assist you today?
+2024-05-19 12:09:27,054 - Processed lead from Facebook with persona Sam over Messenger
+2024-05-19 12:09:28,598 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 12:09:28,614 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 12:09:30,143 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 12:09:30,163 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 12:09:31,694 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 12:09:31,705 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 12:09:33,238 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 12:09:33,246 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 12:09:34,767 - Sending message to yerram.mahendra@example.com via Email: Hi yerram mahendra, Alex here. Let's talk about your needs.
+2024-05-19 12:09:34,792 - Processed lead from Hubspot with persona Alex over Email
+2024-05-19 12:09:36,328 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 12:09:36,342 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 12:09:37,871 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 12:09:37,880 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 12:09:39,412 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 12:09:39,429 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 12:09:40,971 - Sending message to yerram.mahendra@example.com via Whatsapp: Hello yerram mahendra, this is Sofia from our sales team!
+2024-05-19 12:09:40,979 - Processed lead from Salesforce with persona Sofia over Whatsapp
+2024-05-19 12:09:42,399 - Task cancelled

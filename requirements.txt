@@ -1,0 +1,5 @@
+PyYAML
+aiohttp
+aiosqlite
+pytest
+pytest-asyncio

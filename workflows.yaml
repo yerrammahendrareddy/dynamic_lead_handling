@@ -1,0 +1,19 @@
+workflows:
+  - lead_source: Salesforce
+    persona: Sofia
+    actions:
+      - type: send_message
+        message: "Hello {name}, this is Sofia from our sales team!"
+    output_channel: Whatsapp
+  - lead_source: Hubspot
+    persona: Alex
+    actions:
+      - type: send_message
+        message: "Hi {name}, Alex here. Let's talk about your needs."
+    output_channel: Email
+  - lead_source: Facebook
+    persona: Sam
+    actions:
+      - type: send_message
+        message: "Hey {name}, Sam from support. How can I assist you today?"
+    output_channel: Messenger
